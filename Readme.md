@@ -14,7 +14,10 @@ The Temperature Converter is a simple web application built using CSS, HTML, and
 6. The converted temperatures will be displayed instantly.
 
 
+## Screenshots
 
+
+![Screenshot (122)](https://github.com/abhaymishra9/Temperatrure_Converter/assets/98744759/3ec62c72-0eab-41d0-ba3e-96b13526aab9)
 
 ## Contributing
 
